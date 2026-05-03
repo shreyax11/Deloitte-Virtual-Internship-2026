@@ -6,7 +6,7 @@ This repository contains my solutions for the Deloitte Virtual Internship progra
 
 * **Task 1:** Standardizing IoT telemetry data from multiple JSON formats  
 * **Task 2:** Real-Time Manufacturing Dashboard Proposal  
-* **Task 3:** (To be added)
+
 
 ---
 
@@ -83,6 +83,6 @@ This project is part of a guided virtual internship simulation provided by Deloi
 
 * Task 1 – Completed ✔️  
 * Task 2 – Completed ✔️  
-* Task 3 – In Progress ⏳  
+  
 
 ---
